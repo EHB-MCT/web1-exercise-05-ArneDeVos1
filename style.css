@@ -1,0 +1,71 @@
+.body {
+    /* margin: 0; */
+
+}
+
+.wrapper {
+
+    height: 100%;
+    width: 80%;
+    /* of 920 px */
+    margin: 0 auto;
+
+
+}
+
+
+
+.featured {
+
+    position: relative;
+    /* margin-top: 1%; */
+
+
+}
+
+.individuals {
+    position: relative;
+    margin-top: 28%;
+
+}
+
+.kader {
+
+    position: relative;
+    width: 100%;
+}
+
+.kader2 {
+
+    position: relative;
+    width: 158%;
+}
+
+.kader-inner {
+    float: left;
+    width: 20%;
+
+}
+
+.kader-inner img {
+    width: 100%;
+}
+
+
+.wonderwoman {
+    margin-left: 20px;
+    width: 42%;
+
+}
+
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    padding: 10px;
+}
